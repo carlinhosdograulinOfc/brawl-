@@ -7,7 +7,19 @@ body{
 header{
 border-bottom: 3px solid cyan;
 padding: 20px;
-color: aqua;
+color: rgb(145, 255, 0);
 font-size: 35px;
+}
+
+.chamada{
+ background: rgb(140, 0, 255);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+margin-right: 25%;
+}
+h1{font-size: 35px;
+
 
 }
