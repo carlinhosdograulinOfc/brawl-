@@ -1,18 +1,18 @@
 body{
-    background: rgb(245, 255, 157);
+    background: rgb(0, 0, 0);
     color: darkblue;        
     font-family: "Itim", serif;  
     margin-bottom: 100px;
 }
 header{
-border-bottom: 3px solid cyan;
+border-bottom: 3px solid rgb(0, 102, 255);
 padding: 20px;
-color: rgb(38, 0, 255);
+color: rgb(0, 0, 0);
 font-size: 35px;
 }
 
 .chamada{
- background: rgb(252, 229, 229);
+ background: rgb(209, 0, 105);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
